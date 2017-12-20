@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef7c7c49-d304-4f82-88bd-c7f9cb1d783b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/neo/eco/services/neoScan.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/neo.js" afterPath="$PROJECT_DIR$/dist/neo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/neo.node.js" afterPath="$PROJECT_DIR$/dist/neo.node.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/neo/index.js" afterPath="$PROJECT_DIR$/src/neo/index.js" />
+    </list>
+    <ignored path="NEO-API-JS.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="NEO-API-JS" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="polling-multiple-endpoints.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/polling-multiple-endpoints.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="neo.index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/neo.index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-4">
+                <caret line="17" column="57" lean-forward="false" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+                <folding>
+                  <marker date="1505744744000" expanded="true" signature="1164:1219" ph="{...}" />
+                  <marker date="1505744744000" expanded="true" signature="1274:1327" ph="{...}" />
+                  <marker date="1505744744000" expanded="true" signature="1355:1445" ph="{&quot;baseUrl&quot;: 'http://www.antchain.org/api/v1/'...}" />
+                  <marker date="1505744744000" expanded="true" signature="1552:1646" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/neo/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+              <folding>
+                <element signature="e#388#443#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="antChain.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/neo/eco/services/antChain.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="core.index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/neo/core.index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="neoScan.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/neo/eco/services/neoScan.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rollup.config.core.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rollup.config.core.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>data</find>
+      <find>body</find>
+      <find>rpc</find>
+      <find>getTransformsByService</find>
+      <find>neoService</find>
+      <find>service</find>
+      <find>useTransforms</find>
+      <find>serviceUseTransforms</find>
+      <find>transform</find>
+      <find>prepareContext</find>
+      <find>methodSignature</find>
+      <find>hasProtocolSupport</find>
+      <find>supportMap</find>
+      <find>exports</find>
+      <find>var</find>
+      <find>ipc</find>
+      <find>Ipc</find>
+      <find>factory</find>
+      <find>let</find>
+      <find>IpcService</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>options</replace>
+      <replace>let</replace>
+      <replace>var</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/node_modules/axios</dir>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/examples/neo.js" />
+        <option value="$PROJECT_DIR$/src/neo/utils/polling.js" />
+        <option value="$PROJECT_DIR$/.eslintrc.json" />
+        <option value="$PROJECT_DIR$/src/neo/service.js" />
+        <option value="$PROJECT_DIR$/src/neo/services/serviceRequestor.js" />
+        <option value="$PROJECT_DIR$/bak/interval.js" />
+        <option value="$PROJECT_DIR$/src/neo/utils/interval.js" />
+        <option value="$PROJECT_DIR$/src/neo/services/neon/transforms.js" />
+        <option value="$PROJECT_DIR$/examples/polling-multiple-endpoints.html" />
+        <option value="$PROJECT_DIR$/todo.txt" />
+        <option value="$PROJECT_DIR$/src/neo/services/neon/index.js" />
+        <option value="$PROJECT_DIR$/dist/neo.node.js" />
+        <option value="$PROJECT_DIR$/src/neo/services/serviceOptions.js" />
+        <option value="$PROJECT_DIR$/src/neo/registry.js" />
+        <option value="$PROJECT_DIR$/src/neo/eco/services/antChain/index.js" />
+        <option value="$PROJECT_DIR$/src/neo/services/rest.js" />
+        <option value="$PROJECT_DIR$/src/neo/services/serviceRequester.js" />
+        <option value="$PROJECT_DIR$/src/neo/services/rpc.js" />
+        <option value="$PROJECT_DIR$/neo.core.index.js" />
+        <option value="$PROJECT_DIR$/neo.eco.index.js" />
+        <option value="$PROJECT_DIR$/rollup.config.eco.js" />
+        <option value="$PROJECT_DIR$/src/neo/eco.index.js" />
+        <option value="$PROJECT_DIR$/rollup.config.all.js" />
+        <option value="$PROJECT_DIR$/neo.all.index.js" />
+        <option value="$PROJECT_DIR$/src/neo/protocols/angular.http.js" />
+        <option value="$PROJECT_DIR$/src/neo/protocols/axios.http.js" />
+        <option value="$PROJECT_DIR$/dist/neo.js" />
+        <option value="$PROJECT_DIR$/src/neo/core.index.js" />
+        <option value="$PROJECT_DIR$/dist/app.js" />
+        <option value="$PROJECT_DIR$/src/neo/services/ipc.js" />
+        <option value="$PROJECT_DIR$/src/neo/services/factory/index.js" />
+        <option value="$PROJECT_DIR$/src/neo/services/service.js" />
+        <option value="$PROJECT_DIR$/src/neo/protocols/cluster.ipc.js" />
+        <option value="$PROJECT_DIR$/rollup.config.js" />
+        <option value="$PROJECT_DIR$/examples/address-value.html" />
+        <option value="$PROJECT_DIR$/rollup.config.core.js" />
+        <option value="$PROJECT_DIR$/neo.index.js" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/test/neon.api.js" />
+        <option value="$PROJECT_DIR$/test/antchain.org.api.js" />
+        <option value="$PROJECT_DIR$/test/antchain.xyz.api.js" />
+        <option value="$PROJECT_DIR$/test/rest.api.js" />
+        <option value="$PROJECT_DIR$/test/rpc.api.js" />
+        <option value="$PROJECT_DIR$/rollup.node.js" />
+        <option value="$PROJECT_DIR$/package-lock.json" />
+        <option value="$PROJECT_DIR$/problem solving.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/neo/eco/services/neoScan.js" />
+        <option value="$PROJECT_DIR$/src/neo/index.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="813" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NEO-API-JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neo-api-js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NEO-API-JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neo-api-js" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptLanguageLevel" value="ES6" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/examples" />
+      <recent name="$PROJECT_DIR$/bak" />
+      <recent name="$PROJECT_DIR$/wiki" />
+      <recent name="$PROJECT_DIR$/src/neo/eco/services" />
+      <recent name="$PROJECT_DIR$/bak/neon" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/neo/eco/services" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/examples" />
+      <recent name="$PROJECT_DIR$/src/neo/protocols" />
+      <recent name="$PROJECT_DIR$/src/neo/services" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.app.js">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/dist" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef7c7c49-d304-4f82-88bd-c7f9cb1d783b" name="Default" comment="" />
+      <created>1499731729155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499731729155</updated>
+      <workItem from="1499731730384" duration="32728000" />
+      <workItem from="1499918209764" duration="39000" />
+      <workItem from="1499918998411" duration="9000" />
+      <workItem from="1499934787813" duration="13854000" />
+      <workItem from="1500737416183" duration="12842000" />
+      <workItem from="1500999149552" duration="20960000" />
+      <workItem from="1501189266775" duration="15897000" />
+      <workItem from="1501249076446" duration="8026000" />
+      <workItem from="1501713319869" duration="1901000" />
+      <workItem from="1501864102418" duration="1355000" />
+      <workItem from="1502033287180" duration="795000" />
+      <workItem from="1502117060947" duration="776000" />
+      <workItem from="1502120561431" duration="4025000" />
+      <workItem from="1502368860690" duration="4803000" />
+      <workItem from="1502408701354" duration="2671000" />
+      <workItem from="1502812275341" duration="299000" />
+      <workItem from="1502819180059" duration="55000" />
+      <workItem from="1503006159678" duration="569000" />
+      <workItem from="1503078598631" duration="18543000" />
+      <workItem from="1503674120191" duration="1413000" />
+      <workItem from="1503678483721" duration="10000" />
+      <workItem from="1503952223100" duration="883000" />
+      <workItem from="1503958675325" duration="338000" />
+      <workItem from="1503959404594" duration="386000" />
+      <workItem from="1504012968496" duration="1353000" />
+      <workItem from="1504096237787" duration="48000" />
+      <workItem from="1505582426311" duration="1885000" />
+      <workItem from="1509650682135" duration="221000" />
+      <workItem from="1511979931313" duration="540000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial checkin. rollup, eslint, rest and rpc methods.">
+      <created>1499749575562</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1499749575562</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add rpc and rest test cases">
+      <created>1499808680675</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1499808680675</updated>
+    </task>
+    <task id="LOCAL-00003" summary="refactor top level object 'neo.rest' and 'neo.rpc' to 'neo.antChain' and 'neo.node' as these are better descriptions of the api interfaces they implement. Rest and Rpc are low-level protocols which should be abstractions at the higher level. Services may implement one or more protocols.">
+      <created>1499850480118</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1499850480118</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update doc to match latest refactor of `neo.node`">
+      <created>1499850624366</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1499850624366</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add example">
+      <created>1499853951417</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1499853951417</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add capability to transform response payload to a data model instance">
+      <created>1499992526685</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1499992526685</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add new service and api methods for antchain.xyz. Refactor for easier customization of protocolClient.">
+      <created>1500934973752</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1500934973752</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add neon service, polling feature and examples. Updated tests.">
+      <created>1502033575823</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1502033575823</updated>
+    </task>
+    <task id="LOCAL-00009" summary="refactoring, move 3rd party service endpoints to eco folder, create new builds for core only, and for both browser and nodejs, update tests.">
+      <created>1503499599857</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1503499599858</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add missing file">
+      <created>1503674497530</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1503674497530</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add package-lock.json so all devs will get the same npm module versions">
+      <created>1503676368907</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1503676368907</updated>
+    </task>
+    <task id="LOCAL-00012" summary="preparing for npm publish">
+      <created>1505583081879</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1505583081879</updated>
+    </task>
+    <task id="LOCAL-00013" summary="include dist folder for npm package">
+      <created>1505585807842</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1505585807842</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="147224000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22339676" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29262394" sideWeight="0.50599015" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33252722" sideWeight="0.49713877" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29262394" sideWeight="0.49400985" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23579203" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/index.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/__event.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/__extends.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/Helper.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/@static/Blockchain.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Fixed8.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/UintVariable.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Uint64.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Uint256.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Uint160.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/BigInteger.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/IO/Stream.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/IO/MemoryStream.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/IO/BinaryReader.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/IO/BinaryWriter.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/IO/Helper.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/IO/ISerializable.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/TransactionAttribute.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/RegisterTransaction.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/Order.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/IssueTransaction.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/Block.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/SplitOrder.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/AssetType.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/VotingTransaction.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/SignatureContext.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/ClaimTransaction.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/TransactionType.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/TransactionAttributeUsage.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/ContractTransaction.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/MinerTransaction.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/Blockchain.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/PublishTransaction.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/AgencyTransaction.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/EnrollmentTransaction.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/ISignable.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/TransactionOutput.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/TransactionInput.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/Transaction.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Linq/OrderByEnumerator.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Linq/ExceptEnumerator.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Linq/ConcatEnumerator.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Linq/SkipWhileEnumerator.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Linq/IntersectEnumerator.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Linq/TakeWhileEnumerator.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Linq/Helper.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Linq/SelectEnumerator.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Linq/WhereEnumerator.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Linq/DistinctEnumerator.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Linq/ArrayEnumerator.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Linq/GroupByEnumerator.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Linq/Enumerator.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Linq/ReverseEnumerator.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Network/Inventory.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Network/RemoteNode.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Wallets/ContractParameterType.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Wallets/Coin.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Wallets/Contract.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Wallets/Account.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Wallets/Wallet.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Wallets/CoinState.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Cryptography/RandomNumberGenerator.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Cryptography/Helper.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Cryptography/Aes.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Cryptography/ECFieldElement.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Cryptography/ECDsa.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Cryptography/ECPoint.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Cryptography/Sha256.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Cryptography/RIPEMD160.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Cryptography/Base58.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Cryptography/CryptoKey.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Cryptography/ECCurve.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/IO/Caching/TrackableCollection.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/IO/Caching/ITrackable.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/IO/Caching/TrackState.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/Scripts/ScriptBuilder.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/Scripts/ScriptOp.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/Scripts/Helper.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Core/Scripts/Script.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Network/RPC/RpcClient.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Implementations/Wallets/IndexedDB/DbTransaction.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Implementations/Wallets/IndexedDB/IndexedDBWallet.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Implementations/Wallets/IndexedDB/DbContext.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Implementations/Wallets/IndexedDB/WalletDataContext.js" />
+        <option value="$PROJECT_DIR$/../../ANS/antshares-ts/sdk/AntShares/Implementations/Blockchains/RPC/RpcBlockchain.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Initial checkin. rollup, eslint, rest and rpc methods." />
+    <MESSAGE value="add rpc and rest test cases" />
+    <MESSAGE value="refactor top level object 'neo.rest' and 'neo.rpc' to 'neo.antChain' and 'neo.node' as these are better descriptions of the api interfaces they implement. Rest and Rpc are low-level protocols which should be abstractions at the higher level. Services may implement one or more protocols." />
+    <MESSAGE value="update doc to match latest refactor of `neo.node`" />
+    <MESSAGE value="add example" />
+    <MESSAGE value="Add capability to transform response payload to a data model instance" />
+    <MESSAGE value="Add new service and api methods for antchain.xyz. Refactor for easier customization of protocolClient." />
+    <MESSAGE value="Add neon service, polling feature and examples. Updated tests." />
+    <MESSAGE value="refactoring, move 3rd party service endpoints to eco folder, create new builds for core only, and for both browser and nodejs, update tests." />
+    <MESSAGE value="add missing file" />
+    <MESSAGE value="add package-lock.json so all devs will get the same npm module versions" />
+    <MESSAGE value="preparing for npm publish" />
+    <MESSAGE value="include dist folder for npm package" />
+    <option name="LAST_COMMIT_MESSAGE" value="include dist folder for npm package" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dist/neo.eco.js" />
+    <entry file="file://$PROJECT_DIR$/src/neo/eco/services/neon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neo/protocols/index.js" />
+    <entry file="file://$PROJECT_DIR$/dist/neo.min.js" />
+    <entry file="file://$PROJECT_DIR$/dist/neo.core.js" />
+    <entry file="file://$PROJECT_DIR$/dist/neo-api.core.js" />
+    <entry file="file://$PROJECT_DIR$/dist/neo-api.js" />
+    <entry file="file://$PROJECT_DIR$/src/neo/services/serviceOptions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="47" lean-forward="false" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neo/services/node/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neo/services/rest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/neo-api.node.js" />
+    <entry file="file://$PROJECT_DIR$/dist/neo-api.node.core.js" />
+    <entry file="file://$PROJECT_DIR$/src/neo/protocols/angular.http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="23" lean-forward="false" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neo/protocols/axios.http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neo/services/serviceRequester.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="41" column="29" lean-forward="true" selection-start-line="41" selection-start-column="29" selection-end-line="43" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neo/services/rpc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/neo-api.js" />
+    <entry file="file://$PROJECT_DIR$/rollup.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/address-value.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="43" lean-forward="true" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js" />
+    <entry file="file://$PROJECT_DIR$/test/rest.api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="108" lean-forward="false" selection-start-line="3" selection-start-column="108" selection-end-line="3" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neo/services/service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="44" lean-forward="false" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rollup.node.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1119">
+          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neo/services/ipc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neo/services/factory/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/neon.api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/antchain.xyz.api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78">
+          <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/antchain.org.api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="40" column="11" lean-forward="false" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/rpc.api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1087">
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/neo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bak/wiki/problem solving.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bak/wiki/todo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="57" lean-forward="false" selection-start-line="40" selection-start-column="57" selection-end-line="40" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bak/wiki/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neo/protocols/cluster.ipc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/app.js" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/neo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rollup.config.core.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo.index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neo/eco/services/antChain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neo/eco/services/neoScan.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neo/core.index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neo/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+          <folding>
+            <element signature="e#388#443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/polling-multiple-endpoints.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/neo.node.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/neo.node.core.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo.core.index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="37" lean-forward="false" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-4">
+            <caret line="17" column="57" lean-forward="false" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+            <folding>
+              <marker date="1505744744000" expanded="true" signature="1164:1219" ph="{...}" />
+              <marker date="1505744744000" expanded="true" signature="1274:1327" ph="{...}" />
+              <marker date="1505744744000" expanded="true" signature="1355:1445" ph="{&quot;baseUrl&quot;: 'http://www.antchain.org/api/v1/'...}" />
+              <marker date="1505744744000" expanded="true" signature="1552:1646" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="34" lean-forward="false" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,97 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "neo-api",
+        "scope": null,
+        "escapedName": "neo-api",
+        "name": "neo-api",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\sdy\\Documents\\Mendix\\ect\\neon"
+    ]
+  ],
+  "_from": "neo-api@latest",
+  "_id": "neo-api@1.0.2",
+  "_inCache": true,
+  "_location": "/neo-api",
+  "_nodeVersion": "6.11.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/neo-api-1.0.2.tgz_1511980637448_0.6002137078903615"
+  },
+  "_npmUser": {
+    "name": "ffox77",
+    "email": "ffox77@yahoo.com"
+  },
+  "_npmVersion": "5.4.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "neo-api",
+    "scope": null,
+    "escapedName": "neo-api",
+    "name": "neo-api",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/neo-api/-/neo-api-1.0.2.tgz",
+  "_shasum": "09350fc2e5a9f29a8ea2e9caf9096fce75b30ceb",
+  "_shrinkwrap": null,
+  "_spec": "neo-api",
+  "_where": "C:\\Users\\sdy\\Documents\\Mendix\\ect\\neon",
+  "author": {
+    "name": "Frank Fox",
+    "url": "https://github.com/ffox77"
+  },
+  "browser": "dist/neo.min.js",
+  "dependencies": {
+    "axios": "^0.16.2"
+  },
+  "description": "NEO Network JavaScript API",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2",
+    "rollup": "^0.43.0",
+    "rollup-plugin-commonjs": "^8.0.2",
+    "rollup-plugin-eslint": "^4.0.0",
+    "rollup-plugin-node-resolve": "^3.0.0",
+    "uglify-es": "^3.0.27"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-8GYhZy75wmOWANtaSx3Y16vvOGIPT2lOuLFrCKG1sLd9bB1fPRZ4ZLQL98KM454DOafwbJ2f5lAs6cWMgYuOiw==",
+    "shasum": "09350fc2e5a9f29a8ea2e9caf9096fce75b30ceb",
+    "tarball": "https://registry.npmjs.org/neo-api/-/neo-api-1.0.2.tgz"
+  },
+  "gitHead": "5096f8bb806cce86441f35164cce8a817d103355",
+  "homepage": "https://github.com/CityOfZion",
+  "jsnext:main": "index",
+  "keywords": [
+    "neo",
+    "blockchain"
+  ],
+  "license": "ISC",
+  "main": "dist/neo.node.js",
+  "maintainers": [
+    {
+      "name": "ffox77",
+      "email": "ffox77@yahoo.com"
+    }
+  ],
+  "module": "index",
+  "name": "neo-api",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "build": "rollup -c && node rollup.node.js",
+    "test": "mocha",
+    "uglify": "uglifyjs dist/neo.js -c negate_iife=false -m -o dist/neo.min.js"
+  },
+  "version": "1.0.2"
+}
